@@ -1,0 +1,25 @@
+body {
+    background-color: #fffcf5;
+}
+
+h4 {
+    color: #374375;
+    text-align: center;
+    font-family: trebuchet;
+    font-size: medium;
+    font-style: italic;
+}
+
+row1 {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box1 {
+    background: #567c8d;
+    margin-left: 40px;
+    margin-top: 50px;
+    border-radius: 25px;
+    width: 1165px;
+    height: 900px;
+}
